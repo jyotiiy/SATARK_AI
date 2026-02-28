@@ -1,0 +1,5 @@
+borrower_id,name,scheme,region,loan_amount,health_score,peer_score,regional_npa,risk_level
+B001,Rahul,MUDRA,Jharkhand,50000,42,48,High,Moderate
+B002,Sita,MUDRA,West Bengal,50000,65,62,Low,Low
+B003,Amit,PMEGP,Jharkhand,120000,38,45,High,High
+B004,Pooja,PMEGP,West Bengal,120000,72,70,Low,Low
